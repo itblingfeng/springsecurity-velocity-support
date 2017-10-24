@@ -4,7 +4,7 @@
 
 相关方法：
 
-      一. $security.getPrincipal()
+      1. $security.getPrincipal()
 	  detail：返回用户 Principal
 	  param：无
 	  return：Object
