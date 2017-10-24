@@ -39,3 +39,5 @@
    detail：验证用户是否具有某权限
 	 param： permission 权限名称
 	 return：Boolean
+
+=======
